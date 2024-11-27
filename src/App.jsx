@@ -22,6 +22,11 @@ function App() {
             Web Anime List
           </div>
         </a>
+        <a href="https://github.com/Rhakelino/lirik-lagu" target="_blank">
+          <div className="flex mt-5 bg-white text-black font- w-80 h-12 justify-center items-center rounded-full shadow-md hover:bg-slate-900 hover:text-white">
+            Lirik Lagu
+          </div>
+        </a>
       </div>
     </div>
   )
