@@ -24,7 +24,7 @@ function App() {
         </a>
         <a href="https://juju-ai.netlify.app/" target="_blank">
           <div className="flex mt-5 bg-white text-black font- w-80 h-12 justify-center items-center rounded-full shadow-md font-bold hover:bg-slate-900 hover:text-white">
-            JUJU AI
+            Juju AI
           </div>
         </a>
       </div>
