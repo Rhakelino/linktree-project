@@ -12,17 +12,17 @@ function App() {
           <h1 className="font-bold text-xl">Rhakelino</h1>
           <p className="font-medium text-sm">Link Projects</p>
           <a href="https://calculatoor-apps.netlify.app/" target="_blank">
-            <div className="flex mt-5 bg-white text-black font- w-96 h-12 justify-center items-center rounded-full shadow-md hover:bg-slate-900 hover:text-white">
+            <div className="flex mt-5 bg-white text-black font- w-96 h-12 justify-center items-center rounded-full shadow-md font-bold hover:bg-slate-900 hover:text-white">
               Calculator App
             </div>
           </a>
           <a href="https://juju-otaku.netlify.app/" target="_blank">
-            <div className="flex mt-5 bg-white text-black font- w-96 h-12 justify-center items-center rounded-full shadow-md hover:bg-slate-900 hover:text-white">
+            <div className="flex mt-5 bg-white text-black font- w-96 h-12 justify-center items-center rounded-full shadow-md font-bold hover:bg-slate-900 hover:text-white">
               Web Anime List
             </div>
           </a>
           <a href="https://juju-ai.netlify.app/" target="_blank">
-            <div className="flex mt-5 bg-white text-black font- w-96 h-12 justify-center items-center rounded-full shadow-md hover:bg-slate-900 hover:text-white">
+            <div className="flex mt-5 bg-white text-black font- w-96 h-12 justify-center items-center rounded-full shadow-md font-bold hover:bg-slate-900 hover:text-white">
               Juju AI
             </div>
           </a>
