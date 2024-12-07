@@ -42,6 +42,16 @@ function App() {
             Juju AI (Source Code)
           </div>
         </a>
+        <a href="https://juju-news.netlify.app/" target="_blank">
+          <div className="flex mt-5 bg-white text-black w-full h-12 justify-center items-center rounded-full shadow-md font-bold hover:bg-slate-900 hover:text-white">
+            Juju News (Link Website)
+          </div>
+        </a>
+        <a href="https://github.com/Rhakelino/juju-news" target="_blank">
+          <div className="flex mt-5 bg-white text-black w-full h-12 justify-center items-center rounded-full shadow-md font-bold hover:bg-slate-900 hover:text-white">
+            Juju News (Source Code)
+          </div>
+        </a>
       </div>
     </div>
   )
